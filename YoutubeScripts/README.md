@@ -4,10 +4,11 @@ A collection of Tampermonkey scripts to remove distractions from YouTube and foc
 
 ## Features
 
-✅ **Redirect Home & Shorts** - Automatically redirects YouTube homepage and shorts to your subscriptions feed  
-✅ **Remove Recommendations** - Hides the recommended videos sidebar when watching videos  
-✅ **Hide Shorts in Search** - Removes all short videos from search results  
-✅ **Hide Shorts in Subscriptions** - Removes all short videos from your subscriptions feed
+✅ **Hide Shorts in Search Query** - Removes all short videos from search results  
+✅ **Hide Shorts in Subscriptions Page** - Removes all short videos from your subscriptions feed
+✅ **Redirect to Subscription page when Home and Shorts are opened** - Automatically redirects YouTube homepage and shorts to your subscriptions feed
+✅ **Remove Recommendations from Video** - Hides the recommended videos sidebar when watching videos  
+
 
 ## Installation
 
@@ -32,10 +33,10 @@ Tampermonkey is a browser extension that allows you to run userscripts.
 Click on each script link below (or just the ones you want to install). 
 Tampermonkey will automatically open and show an install button:
 
-1. [YouTube - Redirect Home & Shorts](scripts/redirect-home-shorts.user.js)
-2. [YouTube - Remove Recommendations](scripts/remove-recommendations.user.js)
-3. [YouTube - Hide Shorts in Search](scripts/hide-shorts-search.user.js)
-4. [YouTube - Hide Shorts in Subscriptions](scripts/hide-shorts-subscriptions.user.js)
+1. [YouTube - Hide Shorts in Search Query](https://github.com/Leonardo1888/ProductivityScripts/raw/refs/heads/main/YoutubeScripts/YouTube%20-%20Hide%20Shorts%20in%20Search%20Query-1.0.user.js)
+2. [YouTube - Hide Shorts in Subscriptions Page](https://github.com/Leonardo1888/ProductivityScripts/raw/refs/heads/main/YoutubeScripts/YouTube%20-%20Hide%20Shorts%20in%20Subscriptions%20Page-1.0.user.js)
+3. [YouTube - Redirect to Subscription page when Home and Shorts are opened](https://github.com/Leonardo1888/ProductivityScripts/raw/refs/heads/main/YoutubeScripts/YouTube%20-%20Redirect%20to%20Subscription%20page%20when%20Home%20and%20Shorts%20are%20opened-1.0.user.js)
+4. [YouTube - Remove Recommendations from Video](https://github.com/Leonardo1888/ProductivityScripts/raw/refs/heads/main/YoutubeScripts/YouTube%20-%20Remove%20Recommendations%20from%20Video-1.0.user.js)
 
 **Option B: Manual Install**
 
